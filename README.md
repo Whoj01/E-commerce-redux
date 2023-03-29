@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Redux
 
-Bibliotecas
+## Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
 - [Redux](https://redux.js.org/)
